@@ -1,0 +1,3 @@
+DRIVE NAME: G:\
+FIRST COPY LOCATION: C:\Users\FaeganWhite\Documents\backupSoftware\test
+MEDIA FILE TYPES: MP4, MXF
