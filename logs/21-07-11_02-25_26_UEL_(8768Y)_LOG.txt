@@ -1,0 +1,140 @@
+
+  *** UEL (8768Y) - 11/07/21 02:25:26_***
+
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/AVF_INFO
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/AVF_INFO/AVIN0001.INT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/AVF_INFO/AVIN0001.BNP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/AVF_INFO/AVIN0001.INP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/AVF_INFO/PRV00001.BIN
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/System Volume Information
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/System Volume Information/WPSettings.dat
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/System Volume Information/IndexerVolumeGuid
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/AVCHD/BDMV
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/AVCHD/BDMV/MOVIEOBJ.BDM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/AVCHD/BDMV/INDEX.BDM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/AVCHD/BDMV/PLAYLIST
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/AVCHD/BDMV/CLIPINF
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/AVCHD/BDMV/STREAM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/MEDIAPRO.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/STATUS.BIN
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/CLIP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/CLIP/C0001.MP4
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/CLIP/C0001M01.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/SUB
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0001T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0002T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0003T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0004T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0005T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0006T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0007T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0008T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0009T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0010T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0011T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0012T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0013T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0014T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0015T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0016T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0017T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0018T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0019T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0020T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0021T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0022T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/THMBNL/C0023T01.JPG
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/M4ROOT/GENERAL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/PRIVATE/._AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/Edit
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/General
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/General/Sony
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/General/Sony/Planning
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/Sub
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/Take
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/Take/EXPLORE_14.06.210004U01.SMI
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/Take/EXPLORE_14.06.210004U01M01.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/Thmbnl
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/UserData
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/CUEUP.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/DISCMETA.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/MEDIAPRO.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/Clip
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/Clip/EXPLORE_14.06.210002.MXF
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/Clip/EXPLORE_14.06.210002M01.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)/XDROOT/Clip/EXPLORE_14.06.210002R01.BIM
+
+2 folders have been copied to /Users/MacProServer/Documents/backupSoftware/test/UEL (8768Y)
+(2 total)
+- A7RA_1_2021-07-02_8768Y_UEL 35 MB
+- FS7A_1_2021-06-14_8768Y_UEL 5 GB
+
+Duplicating the footage to /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)
+
+/Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/._AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/AVCHD/BDMV
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/AVCHD/BDMV/PLAYLIST
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/AVCHD/BDMV/CLIPINF
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/AVCHD/BDMV/STREAM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/AVCHD/BDMV/MOVIEOBJ.BDM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/AVCHD/BDMV/INDEX.BDM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/MEDIAPRO.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/GENERAL
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/CLIP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/CLIP/A7RA_1_8768Y_C0001.MP4
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/CLIP/A7RA_1_8768Y_C0001M01.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/SUB
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0010T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0002T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0012T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0020T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0008T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0016T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0004T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0022T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0006T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0018T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0014T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0011T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0003T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0001T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0013T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0017T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0009T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0005T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0021T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0019T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0007T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0015T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/THMBNL/C0023T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/A7RA_1_2021-07-02_8768Y_UEL/M4ROOT/STATUS.BIN
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/MEDIAPRO.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/General
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/General/Sony
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/General/Sony/Planning
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/Clip
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/Clip/EXPLORE_14.06.210002R01.BIM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/Clip/FS7A_1_8768Y_EXPLORE_14.06.210002M01.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/Clip/FS7A_1_8768Y_EXPLORE_14.06.210002.MXF
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/DISCMETA.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/Edit
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/Sub
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/Take
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/Take/EXPLORE_14.06.210004U01M01.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/Take/EXPLORE_14.06.210004U01.SMI
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/Thmbnl
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/UserData
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/UEL (8768Y)/FS7A_1_2021-06-14_8768Y_UEL/CUEUP.XML
+
+All footage transferred successfully.

@@ -1,0 +1,89 @@
+
+  *** ergrdgd (6434F) - 11/07/21 02:35:59_***
+
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/AVF_INFO
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/AVF_INFO/AVIN0001.INT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/AVF_INFO/AVIN0001.BNP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/AVF_INFO/AVIN0001.INP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/AVF_INFO/PRV00001.BIN
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/System Volume Information
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/System Volume Information/WPSettings.dat
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/System Volume Information/IndexerVolumeGuid
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/AVCHD/BDMV
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/AVCHD/BDMV/MOVIEOBJ.BDM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/AVCHD/BDMV/INDEX.BDM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/AVCHD/BDMV/PLAYLIST
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/AVCHD/BDMV/CLIPINF
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/AVCHD/BDMV/STREAM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/MEDIAPRO.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/STATUS.BIN
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/CLIP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/CLIP/C0001.MP4
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/CLIP/C0001M01.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/SUB
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0001T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0002T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0003T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0004T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0005T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0006T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0007T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0008T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0009T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0010T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0011T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0012T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0013T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0014T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0015T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0016T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0017T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0018T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0019T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0020T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0021T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0022T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/THMBNL/C0023T01.JPG
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/M4ROOT/GENERAL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/PRIVATE/._AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/Edit
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/General
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/General/Sony
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/General/Sony/Planning
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/Sub
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/Take
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/Take/EXPLORE_14.06.210004U01.SMI
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/Take/EXPLORE_14.06.210004U01M01.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/Thmbnl
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/UserData
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/CUEUP.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/DISCMETA.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/MEDIAPRO.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/Clip
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/Clip/EXPLORE_14.06.210002.MXF
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/Clip/EXPLORE_14.06.210002M01.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)/XDROOT/Clip/EXPLORE_14.06.210002R01.BIM
+
+2 folders have been copied to /Users/MacProServer/Documents/backupSoftware/test/ergrdgd (6434F)
+(2 total)
+- A7RA_1_2021-07-02_6434F_ergrdgd 35 MB
+- FS7A_1_2021-06-14_6434F_ergrdgd 5 GB
+
+
+21/07/11, 02:36:07
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 780, in copyFootage
+    makeProxies(new_path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 533, in makeProxies
+    makeProxy(file, os.path.join(location,"Proxies"))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 540, in makeProxy
+    proxy_name = file_name.split('.')[0]+"_Proxy."+file_name.split('.')[1]
+IndexError: list index out of range
+
+list index out of range
+

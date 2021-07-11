@@ -1,3 +1,4 @@
-DRIVE NAME: G:\
-FIRST COPY LOCATION: C:\Users\FaeganWhite\Documents\backupSoftware\test
-MEDIA FILE TYPES: MP4, MXF
+MEDIA FILE TYPES: .MP4, .MXF, .MOV, .MKV, .AVI, .AVCHD
+DRIVE LOCATION: /Volumes
+PRIMARY COPY LOCATION: /Users/MacProServer/Documents/backupSoftware/test
+SECONDARY COPY LOCATIONS: /Users/MacProServer/Documents/backupSoftware/test/Media Server

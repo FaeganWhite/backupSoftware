@@ -1,0 +1,91 @@
+
+  *** beans (9999Q) - 11/07/21 02:37:36_***
+
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/AVF_INFO
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/AVF_INFO/AVIN0001.INT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/AVF_INFO/AVIN0001.BNP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/AVF_INFO/AVIN0001.INP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/AVF_INFO/PRV00001.BIN
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/System Volume Information
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/System Volume Information/WPSettings.dat
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/System Volume Information/IndexerVolumeGuid
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/AVCHD/BDMV
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/AVCHD/BDMV/MOVIEOBJ.BDM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/AVCHD/BDMV/INDEX.BDM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/AVCHD/BDMV/PLAYLIST
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/AVCHD/BDMV/CLIPINF
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/AVCHD/BDMV/STREAM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/MEDIAPRO.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/STATUS.BIN
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/CLIP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/CLIP/C0001.MP4
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/CLIP/C0001M01.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/SUB
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0001T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0002T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0003T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0004T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0005T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0006T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0007T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0008T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0009T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0010T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0011T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0012T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0013T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0014T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0015T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0016T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0017T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0018T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0019T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0020T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0021T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0022T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/THMBNL/C0023T01.JPG
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/M4ROOT/GENERAL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/PRIVATE/._AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/Edit
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/General
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/General/Sony
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/General/Sony/Planning
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/Sub
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/Take
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/Take/EXPLORE_14.06.210004U01.SMI
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/Take/EXPLORE_14.06.210004U01M01.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/Thmbnl
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/UserData
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/CUEUP.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/DISCMETA.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/MEDIAPRO.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/Clip
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/Clip/EXPLORE_14.06.210002.MXF
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/Clip/EXPLORE_14.06.210002M01.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)/XDROOT/Clip/EXPLORE_14.06.210002R01.BIM
+
+1 folders have been copied to /Users/MacProServer/Documents/backupSoftware/test/beans (9999Q)
+(4 total)
+- A7RA_2_2021-07-02_9999Q_beans 35 MB
+- A7RA_1_2021-07-02_9999Q_beans 35 MB
+- FS7A_2_2021-06-14_9999Q_beans 5 GB
+- FS7A_1_2021-06-14_9999Q_beans 5 GB
+
+
+21/07/11, 02:37:44
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 783, in copyFootage
+    makeProxies(new_path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 533, in makeProxies
+    makeProxy(file, os.path.join(location,"Proxies"))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 542, in makeProxy
+    proxy_name = file_name.split('.')[0]+"_Proxy."+file_name.split('.')[1]
+IndexError: list index out of range
+
+list index out of range
+

@@ -1,0 +1,14 @@
+
+  *** UEL (9087Y) - 10/07/21 21:35:20_***
+
+
+21/07/10, 21:35:20
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 705, in copyFootage
+    recursiveCopy(drive_path, new_path, footage_size, datetime.now(), log_file)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 160, in recursiveCopy
+    printToLogFile("CREATED: "+os.path.join(destination_path, os.path.join(relative_path, entry.name))+'\n')
+TypeError: printToLogFile() missing 1 required positional argument: 'message'
+
+printToLogFile() missing 1 required positional argument: 'message'
+

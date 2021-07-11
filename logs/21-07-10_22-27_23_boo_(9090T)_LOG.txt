@@ -1,0 +1,18 @@
+
+  *** boo (9090T) - 10/07/21 22:27:23_***
+
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/boo (9090T)/AVF_INFO
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/boo (9090T)/AVF_INFO/AVIN0001.INT
+
+21/07/10, 22:27:23
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 708, in copyFootage
+    recursiveCopy(drive_path, new_path, footage_size, datetime.now(), log_file)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 163, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, log_file, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 151, in recursiveCopy
+    raise ValueError('A very specific bad thing happened.')
+ValueError: A very specific bad thing happened.
+
+A very specific bad thing happened.
+

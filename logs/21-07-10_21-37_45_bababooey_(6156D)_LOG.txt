@@ -1,0 +1,138 @@
+
+  *** bababooey (6156D) - 10/07/21 21:37:45_***
+
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/AVF_INFO
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/AVF_INFO/AVIN0001.INT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/AVF_INFO/AVIN0001.BNP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/AVF_INFO/AVIN0001.INP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/AVF_INFO/PRV00001.BIN
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/System Volume Information
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/System Volume Information/WPSettings.dat
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/System Volume Information/IndexerVolumeGuid
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/AVCHD/BDMV
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/AVCHD/BDMV/MOVIEOBJ.BDM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/AVCHD/BDMV/INDEX.BDM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/AVCHD/BDMV/PLAYLIST
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/AVCHD/BDMV/CLIPINF
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/AVCHD/BDMV/STREAM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/MEDIAPRO.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/STATUS.BIN
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/CLIP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/CLIP/C0001.MP4
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/CLIP/C0001M01.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/SUB
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0001T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0002T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0003T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0004T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0005T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0006T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0007T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0008T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0009T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0010T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0011T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0012T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0013T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0014T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0015T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0016T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0017T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0018T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0019T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0020T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0021T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0022T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/THMBNL/C0023T01.JPG
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/M4ROOT/GENERAL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/PRIVATE/._AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/Edit
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/General
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/General/Sony
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/General/Sony/Planning
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/Sub
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/Take
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/Take/EXPLORE_14.06.210004U01.SMI
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/Take/EXPLORE_14.06.210004U01M01.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/Thmbnl
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/UserData
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/CUEUP.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/DISCMETA.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/MEDIAPRO.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/Clip
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/Clip/EXPLORE_14.06.210002.MXF
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/Clip/EXPLORE_14.06.210002M01.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)/XDROOT/Clip/EXPLORE_14.06.210002R01.BIM
+
+2 folders have been copied to /Users/MacProServer/Documents/backupSoftware/test/bababooey (6156D)
+(2 total)
+- FS7A_1_2021-06-14_6156D_bababooey 5 GB
+- A7RA_1_2021-07-02_6156D_bababooey 35 MB
+
+Duplicating the footage to /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)
+
+/Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/MEDIAPRO.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/General
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/General/Sony
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/General/Sony/Planning
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/Clip
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/Clip/FS7A_1_6156D_EXPLORE_14.06.210002.MXF
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/Clip/EXPLORE_14.06.210002R01.BIM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/Clip/FS7A_1_6156D_EXPLORE_14.06.210002M01.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/DISCMETA.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/Edit
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/Sub
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/Take
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/Take/EXPLORE_14.06.210004U01M01.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/Take/EXPLORE_14.06.210004U01.SMI
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/Thmbnl
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/UserData
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/FS7A_1_2021-06-14_6156D_bababooey/CUEUP.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/._AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/AVCHD/BDMV
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/AVCHD/BDMV/PLAYLIST
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/AVCHD/BDMV/CLIPINF
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/AVCHD/BDMV/STREAM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/AVCHD/BDMV/MOVIEOBJ.BDM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/AVCHD/BDMV/INDEX.BDM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/MEDIAPRO.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/GENERAL
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/CLIP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/CLIP/A7RA_1_6156D_C0001M01.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/CLIP/A7RA_1_6156D_C0001.MP4
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/SUB
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0010T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0002T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0012T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0020T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0008T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0016T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0004T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0022T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0006T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0018T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0014T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0011T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0003T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0001T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0013T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0017T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0009T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0005T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0021T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0019T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0007T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0015T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/THMBNL/C0023T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/bababooey (6156D)/A7RA_1_2021-07-02_6156D_bababooey/M4ROOT/STATUS.BIN

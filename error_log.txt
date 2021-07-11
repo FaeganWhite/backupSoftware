@@ -1,69 +1,460 @@
-07/07/2021, 13:07:08 - TypeError("handleError() missing 1 required positional argument: 'drive_path'") - 
-07/07/2021, 13:08:06 - TypeError("handleError() missing 1 required positional argument: 'project_name'") - 
-07/07/2021, 13:09:07 - 'Not enough space at location C:\\Users\\FaeganWhite\\Documents\\backup\\test. Requires314GB more space!' - 
-07/07/2021, 13:11:49 - 'Not enough space at location C:\\Users\\FaeganWhite\\Documents\\backup\\test. Requires 314GB more space!' - beans (888)
-07/07/2021, 13:23:32 - TypeError("'nt.DirEntry' object is not iterable") - beans (zog)
-07/07/2021, 13:25:05 - TypeError("'nt.DirEntry' object is not iterable") - d (ff)
-07/07/2021, 15:33:29 - Error([('G:\\PRIVATE\\M4ROOT\\CLIP\\C0004.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0004.MP4', '[Errno 22] Invalid argument'), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0004M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0004M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0004M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0005.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0005.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0005.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0005M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0005M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0005M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0006.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0006.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0006.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0006M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0006M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0006M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0007.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0007.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0007.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0007M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0007M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0007M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0008.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0008.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0008.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0008M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0008M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0008M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0009.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0009.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0009.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0009M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0009M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0009M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0010.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0010.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0010.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0010M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0010M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0010M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0011.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0011.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0011.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0011M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0011M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0011M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0012.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0012.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0012.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0012M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0012M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0012M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0013.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0013.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0013.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0013M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0013M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0013M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0014.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0014.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0014.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0014M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0014M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0014M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0015.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0015.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0015.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0015M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0015M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0015M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0016.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0016.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0016.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0016M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0016M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0016M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0017.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0017.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0017.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0017M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0017M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0017M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0018.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0018.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0018.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0018M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0018M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0018M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0019.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0019.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0019.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0019M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0019M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0019M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0020.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0020.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0020.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0020M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0020M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0020M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0021.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0021.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0021.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0021M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0021M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0021M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0022.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0022.MP4', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0022.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0022M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0022M01.XML', "[Errno 2] No such file or directory: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0022M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0023.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0023.MP4', "[Errno 2] No such file or directory: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0023.MP4'"), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0023M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\CLIP\\C0023M01.XML', "[Errno 2] No such file or directory: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0023M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\SUB', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\SUB', "[WinError 3] The system cannot find the path specified: 'G:\\\\PRIVATE\\\\M4ROOT\\\\SUB'"), ('G:\\PRIVATE\\M4ROOT\\THMBNL', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\THMBNL', "[WinError 3] The system cannot find the path specified: 'G:\\\\PRIVATE\\\\M4ROOT\\\\THMBNL'"), ('G:\\PRIVATE\\M4ROOT\\GENERAL', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\GENERAL', "[WinError 3] The system cannot find the path specified: 'G:\\\\PRIVATE\\\\M4ROOT\\\\GENERAL'"), ('G:\\PRIVATE\\M4ROOT\\MEDIAPRO.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\MEDIAPRO.XML', "[Errno 2] No such file or directory: 'G:\\\\PRIVATE\\\\M4ROOT\\\\MEDIAPRO.XML'"), ('G:\\PRIVATE\\M4ROOT\\STATUS.BIN', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\PRIVATE\\M4ROOT\\STATUS.BIN', "[Errno 2] No such file or directory: 'G:\\\\PRIVATE\\\\M4ROOT\\\\STATUS.BIN'"), ('G:\\AVF_INFO', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\AVF_INFO', "[WinError 3] The system cannot find the path specified: 'G:\\\\AVF_INFO'"), ('G:\\.Spotlight-V100', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\.Spotlight-V100', "[WinError 3] The system cannot find the path specified: 'G:\\\\.Spotlight-V100'"), ('G:\\.fseventsd', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\.fseventsd', "[WinError 3] The system cannot find the path specified: 'G:\\\\.fseventsd'"), ('G:\\System Volume Information', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\UEL (2007A)\\System Volume Information', "[WinError 3] The system cannot find the path specified: 'G:\\\\System Volume Information'")]) - UEL (2007A)
-07/07/2021, 15:46:43 - TypeError("'>' not supported between instances of 'NoneType' and 'NoneType'") - UEL (2008A)
 
-07/07/2021, 16:13:54 - UEL (2107A)
- - TypeError("'>' not supported between instances of 'NoneType' and 'NoneType'")
-07/07/2021, 16:41:50 - UEL (2108B)
- - PermissionError(13, 'Access is denied')
-07/07/2021, 16:44:31 -  (dds)
- - Error([('G:\\PRIVATE\\M4ROOT\\CLIP\\C0002.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\ (dds)\\PRIVATE\\M4ROOT\\CLIP\\C0002.MP4', '[Errno 22] Invalid argument'), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0002M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\ (dds)\\PRIVATE\\M4ROOT\\CLIP\\C0002M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0002M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\SUB', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\ (dds)\\PRIVATE\\M4ROOT\\SUB', "[WinError 433] A device which does not exist was specified: 'G:\\\\PRIVATE\\\\M4ROOT\\\\SUB'"), ('G:\\PRIVATE\\M4ROOT\\THMBNL', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\ (dds)\\PRIVATE\\M4ROOT\\THMBNL', "[WinError 3] The system cannot find the path specified: 'G:\\\\PRIVATE\\\\M4ROOT\\\\THMBNL'"), ('G:\\PRIVATE\\M4ROOT\\GENERAL', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\ (dds)\\PRIVATE\\M4ROOT\\GENERAL', "[WinError 3] The system cannot find the path specified: 'G:\\\\PRIVATE\\\\M4ROOT\\\\GENERAL'")])
-07/07/2021, 16:46:05 - UEL (2109C)
- - PermissionError(13, 'Access is denied')
-07/07/2021, 16:46:54 - UEL (2021A)
- - PermissionError(13, 'Access is denied')
-07/07/2021, 16:47:45 -  ()
- - Error([('G:\\PRIVATE\\M4ROOT\\CLIP\\C0002.MP4', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\ ()\\PRIVATE\\M4ROOT\\CLIP\\C0002.MP4', '[Errno 22] Invalid argument'), ('G:\\PRIVATE\\M4ROOT\\CLIP\\C0002M01.XML', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\ ()\\PRIVATE\\M4ROOT\\CLIP\\C0002M01.XML', "[Errno 22] Invalid argument: 'G:\\\\PRIVATE\\\\M4ROOT\\\\CLIP\\\\C0002M01.XML'"), ('G:\\PRIVATE\\M4ROOT\\SUB', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\ ()\\PRIVATE\\M4ROOT\\SUB', "[WinError 433] A device which does not exist was specified: 'G:\\\\PRIVATE\\\\M4ROOT\\\\SUB'"), ('G:\\PRIVATE\\M4ROOT\\THMBNL', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\ ()\\PRIVATE\\M4ROOT\\THMBNL', "[WinError 433] A device which does not exist was specified: 'G:\\\\PRIVATE\\\\M4ROOT\\\\THMBNL'"), ('G:\\PRIVATE\\M4ROOT\\GENERAL', 'C:\\Users\\FaeganWhite\\Documents\\backup\\test\\ ()\\PRIVATE\\M4ROOT\\GENERAL', "[WinError 433] A device which does not exist was specified: 'G:\\\\PRIVATE\\\\M4ROOT\\\\GENERAL'")])
-07/07/2021, 17:46:24 - beanzzz (666)
- - FileExistsError(17, 'Cannot create a file when that file already exists')
-07/07/2021, 18:16:22 - gretta (666)
- - ZeroDivisionError('division by zero')
-07/07/2021, 18:17:34 - ppp (090)
- - ZeroDivisionError('division by zero')
-07/07/2021, 18:19:51 - nnnn (ttttt)
- - TypeError('scandir: path should be string, bytes, os.PathLike or None, not int')
-07/07/2021, 18:21:14 - nnn (432)
- - TypeError('scandir: path should be string, bytes, os.PathLike or None, not int')
-07/07/2021, 18:25:30 - xxxx (989)
+07/09/2021, 14:47:26 - UEL (2108A)
 Traceback (most recent call last):
-  File "C:\Users\FaeganWhite\Documents\backup\backup_v0.2.py", line 380, in copyFootage
-    recursiveCopy(drive_path, new_path, footage_size)
-  File "C:\Users\FaeganWhite\Documents\backup\backup_v0.2.py", line 135, in recursiveCopy
-    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, current_transfer_amount, os.path.join(relative_path, entry.name))
-  File "C:\Users\FaeganWhite\Documents\backup\backup_v0.2.py", line 127, in recursiveCopy
-    print(current_transfer_amount,"/",folderSize(total_amount))
-  File "C:\Users\FaeganWhite\Documents\backup\backup_v0.2.py", line 105, in folderSize
-    for entry in os.scandir(path):
-TypeError: scandir: path should be string, bytes, os.PathLike or None, not int
- - TypeError('scandir: path should be string, bytes, os.PathLike or None, not int')
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 531, in copyFootage
+    renameFolders(new_path, project_name, project_ref)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 608, in renameFolders
+    os.rename(folder.path, os.path.join(folder.location,folder.camera+"_"+str(counter)+"_"+str(datetime.fromtimestamp(folder.birth).strftime('%Y-%m-%d'))+"_"+project_ref+"_"+project_name.translate(str.maketrans('', '', string.punctuation))))
+OSError: [Errno 66] Directory not empty: '/Users/MacProServer/Documents/backupSoftware/test/UEL (2108A)/PRIVATE' -> '/Users/MacProServer/Documents/backupSoftware/test/UEL (2108A)/A7RA_1_2021-07-02_2108A_UEL'
 
-07/07/2021, 18:26:04 - grotta (99)
+
+07/09/2021, 15:22:15 - UEL (1234Z)
 Traceback (most recent call last):
-  File "C:\Users\FaeganWhite\Documents\backup\backup_v0.2.py", line 380, in copyFootage
-    recursiveCopy(drive_path, new_path, footage_size)
-  File "C:\Users\FaeganWhite\Documents\backup\backup_v0.2.py", line 135, in recursiveCopy
-    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, current_transfer_amount, os.path.join(relative_path, entry.name))
-  File "C:\Users\FaeganWhite\Documents\backup\backup_v0.2.py", line 127, in recursiveCopy
-    print(current_transfer_amount,"/",folderSize(total_amount))
-  File "C:\Users\FaeganWhite\Documents\backup\backup_v0.2.py", line 105, in folderSize
-    for entry in os.scandir(path):
-TypeError: scandir: path should be string, bytes, os.PathLike or None, not int
- - TypeError('scandir: path should be string, bytes, os.PathLike or None, not int')
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 565, in copyFootage
+    asyncio.run(asyncCopy(drive_path, new_path))
+TypeError: asyncCopy() missing 1 required positional argument: 'total_amount'
 
-07/07/2021, 18:27:33 - nnn (ldsfsfdrsg)
+
+07/09/2021, 15:26:58 - UEL (6666D)
 Traceback (most recent call last):
-  File "C:\Users\FaeganWhite\Documents\backup\backup_v0.2.py", line 380, in copyFootage
-    recursiveCopy(drive_path, new_path, footage_size)
-  File "C:\Users\FaeganWhite\Documents\backup\backup_v0.2.py", line 135, in recursiveCopy
-    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, current_transfer_amount, os.path.join(relative_path, entry.name))
-  File "C:\Users\FaeganWhite\Documents\backup\backup_v0.2.py", line 127, in recursiveCopy
-    print(current_transfer_amount,"/",folderSize(total_amount))
-  File "C:\Users\FaeganWhite\Documents\backup\backup_v0.2.py", line 105, in folderSize
-    for entry in os.scandir(path):
-TypeError: scandir: path should be string, bytes, os.PathLike or None, not int
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 567, in copyFootage
+    asyncio.run(asyncCopy(new_path, new_secondary_path, folderSize(new_path)))
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/base_events.py", line 642, in run_until_complete
+    return future.result()
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 714, in asyncCopy
+    await recursiveCopy(origin_path, destination_path, total_amount)
+TypeError: object int can't be used in 'await' expression
 
+
+07/09/2021, 15:34:47 - heeee (0000O)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 581, in copyFootage
+    recursiveCopy(drive_path, new_path, footage_size)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 159, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 145, in recursiveCopy
+    current_transfer_amount += os.path.getsize(entry.path)
+TypeError: can only concatenate str (not "int") to str
+
+
+07/09/2021, 15:42:03 - bretta (7890P)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 581, in copyFootage
+    recursiveCopy(drive_path, new_path, footage_size)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 159, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 147, in recursiveCopy
+    if show_bar:
+NameError: name 'show_bar' is not defined
+
+
+07/09/2021, 15:42:59 - bretta (5566O)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 599, in copyFootage
+    asyncio.run(asyncCopy(new_path, new_secondary_path, folderSize(new_path)))
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/base_events.py", line 642, in run_until_complete
+    return future.result()
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 166, in asyncCopy
+    await asyncRecursiveCopy(origin_path, destination_path, total_amount)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 191, in asyncRecursiveCopy
+    current_transfer_amount = await asyncRecursiveCopy(entry.path, destination_path, total_amount, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 191, in asyncRecursiveCopy
+    current_transfer_amount = await asyncRecursiveCopy(entry.path, destination_path, total_amount, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 179, in asyncRecursiveCopy
+    shutil.copy2(entry.path,  os.path.join(os.path.join(destination_path, relative_path), entry.name))
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/shutil.py", line 435, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/shutil.py", line 268, in copyfile
+    _fastcopy_fcopyfile(fsrc, fdst, posix._COPYFILE_DATA)
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/shutil.py", line 112, in _fastcopy_fcopyfile
+    raise err from None
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/shutil.py", line 105, in _fastcopy_fcopyfile
+    posix._fcopyfile(infd, outfd, flags)
+OSError: [Errno 28] No space left on device: '/Users/MacProServer/Documents/backupSoftware/test/bretta (5566O)/FS7A_1_2021-06-14_5566O_bretta/Clip/FS7A_1_5566O_EXPLORE_14.06.210002.MXF' -> '/Users/MacProServer/Documents/backupSoftware/test/Media Server/bretta (5566O)/FS7A_1_2021-06-14_5566O_bretta/Clip/FS7A_1_5566O_EXPLORE_14.06.210002.MXF'
+
+
+07/09/2021, 16:14:02 - UEL (6679o)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 605, in copyFootage
+    asyncio.run(asyncCopy(new_path, secondary_paths, folderSize(new_path), project_name, project_ref, drive_path))
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/base_events.py", line 642, in run_until_complete
+    return future.result()
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 172, in asyncCopy
+    print("Duplicating footage to",new_secondary_path)
+UnboundLocalError: local variable 'new_secondary_path' referenced before assignment
+
+
+07/09/2021, 16:31:39 - UEL (9988Y)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 588, in copyFootage
+    asyncio.run(asyncCopy(new_path, secondary_paths, folderSize(new_path), project_name, project_ref, drive_path))
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/base_events.py", line 642, in run_until_complete
+    return future.result()
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 166, in asyncCopy
+    await loop.run_in_executor(time.sleep, 5)
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/base_events.py", line 814, in run_in_executor
+    executor.submit(func, *args), loop=self)
+AttributeError: 'builtin_function_or_method' object has no attribute 'submit'
+
+
+07/09/2021, 17:45:29 - UEL (6754E)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 559, in copyFootage
+    footage_size = folderSize(drive_path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 130, in folderSize
+    total += folderSize(entry.path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 130, in folderSize
+    total += folderSize(entry.path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 130, in folderSize
+    total += folderSize(entry.path)
+  [Previous line repeated 1 more time]
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 120, in folderSize
+    for entry in os.scandir(path):
+PermissionError: [Errno 1] Operation not permitted: '/Volumes/Macintosh HD/var/db/fpsd/dvp'
+
+
+07/10/2021, 14:56:19 - UEL (8976E)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 637, in copyFootage
+    recursiveCopy(drive_path, new_path, footage_size, datetime.now())
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 147, in recursiveCopy
+    drawLoadingBar(40, total_amount, current_transfer_amount, start_time)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 357, in drawLoadingBar
+    print('] -> '+formatDataSize(pos)+"  "+str(datetime.combine(date.min, datetime.now()) - datetime.combine(date.min, start_time)), end='')
+TypeError: combine() argument 2 must be datetime.time, not datetime.datetime
+
+
+07/10/2021, 15:07:36 - UEL (2108B)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 637, in copyFootage
+    recursiveCopy(drive_path, new_path, footage_size, datetime.now())
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 147, in recursiveCopy
+    drawLoadingBar(40, total_amount, current_transfer_amount, start_time)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 357, in drawLoadingBar
+    print('] -> '+formatDataSize(pos)+" completed, "+str((((datetime.now() - start_time)*total)/pos).strftime("%H:%M:%S"))+" remaining                    ", end='')
+AttributeError: 'datetime.timedelta' object has no attribute 'strftime'
+
+
+07/10/2021, 15:13:14 - UEL (4537Y)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 637, in copyFootage
+    recursiveCopy(drive_path, new_path, footage_size, datetime.now())
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 147, in recursiveCopy
+    drawLoadingBar(40, total_amount, current_transfer_amount, start_time)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 357, in drawLoadingBar
+    print('] -> '+formatDataSize(pos)+" completed, "+str(divmod(((datetime.now() - start_time)*total)/pos).total_seconds(), 3600)+" remaining                    ", end='')
+TypeError: divmod expected 2 arguments, got 1
+
+
+07/10/2021, 15:27:07 - UEL_big (6785T)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 657, in copyFootage
+    recursiveCopy(new_path, os.path.join(secondary_path,project_name+" ("+project_ref+")"), folderSize(new_path), datetime.now())
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 159, in recursiveCopy
+    drawLoadingBar(40, total_amount, current_transfer_amount, start_time)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 357, in drawLoadingBar
+    print('] -> '+formatDataSize(pos)+" completed,  "+str(((datetime.now() - start_time)*total)/pos)+" remaining          ", end='')
+ZeroDivisionError: integer division or modulo by zero
+
+
+07/10/2021, 15:29:58 - UEL (7865R)
+NoneType: None
+
+
+07/10/2021, 15:32:06 - 7685R (7865A)
+NoneType: None
+
+
+07/10/2021, 15:32:49 - fisdfk,sgsg (0986T)
+NoneType: None
+
+
+07/10/2021, 15:37:32 - uteldp\09876r (8927R)
+NoneType: None
+
+
+07/10/2021, 15:38:16 - uel (9876T)
+NoneType: None
+
+
+07/10/2021, 15:40:27 - uel (9876T)
+NoneType: None
+
+
+07/10/2021, 15:43:31 - UEL (5467Y)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 640, in copyFootage
+    recursiveCopy(drive_path, new_path, footage_size, datetime.now())
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 147, in recursiveCopy
+    drawLoadingBar(40, total_amount, current_transfer_amount, start_time)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 362, in drawLoadingBar
+    print('] -> '+formatDataSize(pos)+" completed,  "+int(estimated-elapsed)+" remaining          ", end='')
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'datetime.timedelta'
+
+
+07/10/2021, 15:44:54 - UEL (7654R)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 639, in copyFootage
+    recursiveCopy(drive_path, new_path, footage_size, datetime.now())
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 147, in recursiveCopy
+    drawLoadingBar(40, total_amount, current_transfer_amount, start_time)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 362, in drawLoadingBar
+    print('] -> '+formatDataSize(pos)+" completed,  "+str(int(estimated-elapsed))+" remaining          ", end='')
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'datetime.timedelta'
+
+
+07/10/2021, 15:57:13 - UEL (6756T)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 659, in copyFootage
+    recursiveCopy(new_path, os.path.join(secondary_path,project_name+" ("+project_ref+")"), folderSize(new_path), datetime.now())
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 157, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 159, in recursiveCopy
+    drawLoadingBar(20, total_amount, current_transfer_amount, start_time)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 358, in drawLoadingBar
+    estimated = ((datetime.now() - start_time)*total)/pos
+ZeroDivisionError: integer division or modulo by zero
+
+
+07/10/2021, 16:25:57 - UEL (6785T)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 689, in copyFootage
+    finishedCopying(drive_path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 814, in finishedCopying
+    sendEmail('f43g4n@gmail.com', 'VICTORY', 'f43g4n@gmail.com', '8fAeg6n6378?')
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 461, in sendEmail
+    server.login(from_email, password)
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/smtplib.py", line 745, in login
+    raise last_exception
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/smtplib.py", line 734, in login
+    (code, resp) = self.auth(
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/smtplib.py", line 657, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials v18sm10205567wrr.54 - gsmtp')
+
+
+07/10/2021, 16:32:27 - UEL (8999U)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 689, in copyFootage
+    finishedCopying(drive_path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 814, in finishedCopying
+    sendEmail('f43g4n@gmail.com', 'VICTORY', 'richbackupnotification@gmail.com', "s8XSQ'Y>P7uh8UX*")
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 461, in sendEmail
+    server.login(from_email, password)
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/smtplib.py", line 745, in login
+    raise last_exception
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/smtplib.py", line 734, in login
+    (code, resp) = self.auth(
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/smtplib.py", line 657, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials b16sm5551697wrw.46 - gsmtp')
+
+
+07/10/2021, 18:07:26 - UEL (9767O)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 747, in copyFootage
+    log_file.write("\n"+str(len(listFolders(new_path))-number_of_folders),"folders have been copied to",new_path,"\n("+str(len(listFolders(new_path)))+" total)\n")
+TypeError: TextIOWrapper.write() takes exactly one argument (4 given)
+
+TextIOWrapper.write() takes exactly one argument (4 given)
+
+07/10/2021, 18:09:15 - UEL (8765T)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 747, in copyFootage
+    log_file.write("\n"+str(len(listFolders(new_path))-number_of_folders),"folders have been copied to",new_path,"\n("+str(len(listFolders(new_path)))+" total)\n")
+TypeError: TextIOWrapper.write() takes exactly one argument (4 given)
+
+TextIOWrapper.write() takes exactly one argument (4 given)
+
+07/10/2021, 18:17:54 - uel (5686T)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 713, in copyFootage
+    file.write("\n"+str(len(listFolders(new_path))-number_of_folders),"folders have been copied to",new_path,"\n("+str(len(listFolders(new_path)))+" total)\n")
+TypeError: TextIOWrapper.write() takes exactly one argument (4 given)
+
+TextIOWrapper.write() takes exactly one argument (4 given)
+
+07/10/2021, 18:20:59 - UEL (5645R)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 717, in copyFootage
+    file.write("- "+location[location.rfind("/"):]+" "+formatDataSize(folderSize(location)))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 121, in folderSize
+    for entry in os.scandir(path):
+FileNotFoundError: [Errno 2] No such file or directory: 'FS7A_1_2021-06-14_5645R_UEL'
+
+[Errno 2] No such file or directory: 'FS7A_1_2021-06-14_5645R_UEL'
+
+07/10/2021, 20:54:54 - UEL (6754E)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 622, in copyFootage
+    footage_size = folderSize(drive_path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 131, in folderSize
+    total += folderSize(entry.path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 131, in folderSize
+    total += folderSize(entry.path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 131, in folderSize
+    total += folderSize(entry.path)
+  [Previous line repeated 1 more time]
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 121, in folderSize
+    for entry in os.scandir(path):
+PermissionError: [Errno 1] Operation not permitted: '/Volumes/Macintosh HD/var/db/fpsd/dvp'
+
+[Errno 1] Operation not permitted: '/Volumes/Macintosh HD/var/db/fpsd/dvp'
+
+07/10/2021, 21:35:20 - UEL (9087Y)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 705, in copyFootage
+    recursiveCopy(drive_path, new_path, footage_size, datetime.now(), log_file)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 160, in recursiveCopy
+    printToLogFile("CREATED: "+os.path.join(destination_path, os.path.join(relative_path, entry.name))+'\n')
+TypeError: printToLogFile() missing 1 required positional argument: 'message'
+
+printToLogFile() missing 1 required positional argument: 'message'
+
+07/10/2021, 21:36:31 - UEL (9875T)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 727, in copyFootage
+    printToLogFile(log_file,"Duplicating the footage to",os.path.join(secondary_path,project_name+" ("+project_ref+")\n\n"))
+TypeError: printToLogFile() takes 2 positional arguments but 3 were given
+
+printToLogFile() takes 2 positional arguments but 3 were given
+
+07/10/2021, 22:27:23 - boo (9090T)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 708, in copyFootage
+    recursiveCopy(drive_path, new_path, footage_size, datetime.now(), log_file)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 163, in recursiveCopy
+    current_transfer_amount = recursiveCopy(entry.path, destination_path, total_amount, start_time, log_file, current_transfer_amount, os.path.join(relative_path, entry.name))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3.py", line 151, in recursiveCopy
+    raise ValueError('A very specific bad thing happened.')
+ValueError: A very specific bad thing happened.
+
+A very specific bad thing happened.
+
+07/11/2021, 02:31:26 - yoooooooo (9876R)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 780, in copyFootage
+    makeProxies(new_path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 504, in makeProxies
+    if not os.path.join(location,"Proxies").is_dir():
+AttributeError: 'str' object has no attribute 'is_dir'
+
+'str' object has no attribute 'is_dir'
+
+07/11/2021, 02:33:37 - yyooop (6543T)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 780, in copyFootage
+    makeProxies(new_path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 533, in makeProxies
+    makeProxy(file, os.path.join(location,"Proxies"))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 538, in makeProxy
+    file_name = input[:input.rfind('/')+1]
+AttributeError: 'builtin_function_or_method' object has no attribute 'rfind'
+
+'builtin_function_or_method' object has no attribute 'rfind'
+
+07/11/2021, 02:34:54 - beans (9999Q)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 780, in copyFootage
+    makeProxies(new_path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 533, in makeProxies
+    makeProxy(file, os.path.join(location,"Proxies"))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 540, in makeProxy
+    proxy_name = file_name.split('.')[0]+"_Proxy."+file_name.split('.')[1]
+IndexError: list index out of range
+
+list index out of range
+
+07/11/2021, 02:36:07 - ergrdgd (6434F)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 780, in copyFootage
+    makeProxies(new_path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 533, in makeProxies
+    makeProxy(file, os.path.join(location,"Proxies"))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 540, in makeProxy
+    proxy_name = file_name.split('.')[0]+"_Proxy."+file_name.split('.')[1]
+IndexError: list index out of range
+
+list index out of range
+
+07/11/2021, 02:37:44 - beans (9999Q)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 783, in copyFootage
+    makeProxies(new_path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 533, in makeProxies
+    makeProxy(file, os.path.join(location,"Proxies"))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 542, in makeProxy
+    proxy_name = file_name.split('.')[0]+"_Proxy."+file_name.split('.')[1]
+IndexError: list index out of range
+
+list index out of range
+
+07/11/2021, 02:38:30 - dfafaef (4531T)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 783, in copyFootage
+    makeProxies(new_path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 533, in makeProxies
+    makeProxy(file, os.path.join(location,"Proxies"))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 545, in makeProxy
+    ffmpeg.input(input_path, pattern_type='glob', framerate=25).output(os.path.join(output_path, proxy_name)).run()
+  File "/usr/local/lib/python3.9/site-packages/ffmpeg/_run.py", line 313, in run
+    process = run_async(
+  File "/usr/local/lib/python3.9/site-packages/ffmpeg/_run.py", line 284, in run_async
+    return subprocess.Popen(
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/subprocess.py", line 951, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/subprocess.py", line 1821, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'ffmpeg'
+
+[Errno 2] No such file or directory: 'ffmpeg'
+
+07/11/2021, 02:45:41 - bduadiad (0090O)
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 780, in copyFootage
+    makeProxies(new_path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 533, in makeProxies
+    makeProxy(file, os.path.join(location,"Proxies"))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 542, in makeProxy
+    ffmpeg.input(input_path, pattern_type='glob', framerate=25).output(os.path.join(output_path, proxy_name)).run()
+  File "/usr/local/lib/python3.9/site-packages/ffmpeg/_run.py", line 325, in run
+    raise Error('ffmpeg', out, err)
+ffmpeg._run.Error: ffmpeg error (see stderr output for detail)
+
+ffmpeg error (see stderr output for detail)

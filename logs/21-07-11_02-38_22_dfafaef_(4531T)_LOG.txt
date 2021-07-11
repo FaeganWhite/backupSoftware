@@ -1,0 +1,97 @@
+
+  *** dfafaef (4531T) - 11/07/21 02:38:22_***
+
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/AVF_INFO
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/AVF_INFO/AVIN0001.INT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/AVF_INFO/AVIN0001.BNP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/AVF_INFO/AVIN0001.INP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/AVF_INFO/PRV00001.BIN
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/System Volume Information
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/System Volume Information/WPSettings.dat
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/System Volume Information/IndexerVolumeGuid
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/AVCHD/BDMV
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/AVCHD/BDMV/MOVIEOBJ.BDM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/AVCHD/BDMV/INDEX.BDM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/AVCHD/BDMV/PLAYLIST
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/AVCHD/BDMV/CLIPINF
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/AVCHD/BDMV/STREAM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/MEDIAPRO.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/STATUS.BIN
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/CLIP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/CLIP/C0001.MP4
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/CLIP/C0001M01.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/SUB
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0001T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0002T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0003T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0004T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0005T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0006T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0007T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0008T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0009T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0010T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0011T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0012T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0013T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0014T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0015T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0016T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0017T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0018T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0019T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0020T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0021T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0022T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/THMBNL/C0023T01.JPG
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/M4ROOT/GENERAL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/PRIVATE/._AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/Edit
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/General
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/General/Sony
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/General/Sony/Planning
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/Sub
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/Take
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/Take/EXPLORE_14.06.210004U01.SMI
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/Take/EXPLORE_14.06.210004U01M01.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/Thmbnl
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/UserData
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/CUEUP.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/DISCMETA.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/MEDIAPRO.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/Clip
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/Clip/EXPLORE_14.06.210002.MXF
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/Clip/EXPLORE_14.06.210002M01.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)/XDROOT/Clip/EXPLORE_14.06.210002R01.BIM
+
+2 folders have been copied to /Users/MacProServer/Documents/backupSoftware/test/dfafaef (4531T)
+(2 total)
+- A7RA_1_2021-07-02_4531T_dfafaef 35 MB
+- FS7A_1_2021-06-14_4531T_dfafaef 5 GB
+
+
+21/07/11, 02:38:30
+Traceback (most recent call last):
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 783, in copyFootage
+    makeProxies(new_path)
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 533, in makeProxies
+    makeProxy(file, os.path.join(location,"Proxies"))
+  File "/Users/macproserver/Documents/backupSoftware/backup_v0.3_ffmpeg.py", line 545, in makeProxy
+    ffmpeg.input(input_path, pattern_type='glob', framerate=25).output(os.path.join(output_path, proxy_name)).run()
+  File "/usr/local/lib/python3.9/site-packages/ffmpeg/_run.py", line 313, in run
+    process = run_async(
+  File "/usr/local/lib/python3.9/site-packages/ffmpeg/_run.py", line 284, in run_async
+    return subprocess.Popen(
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/subprocess.py", line 951, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/subprocess.py", line 1821, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'ffmpeg'
+
+[Errno 2] No such file or directory: 'ffmpeg'
+

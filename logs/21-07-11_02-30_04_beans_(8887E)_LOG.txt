@@ -1,0 +1,140 @@
+
+  *** beans (8887E) - 11/07/21 02:30:04_***
+
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/AVF_INFO
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/AVF_INFO/AVIN0001.INT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/AVF_INFO/AVIN0001.BNP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/AVF_INFO/AVIN0001.INP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/AVF_INFO/PRV00001.BIN
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/System Volume Information
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/System Volume Information/WPSettings.dat
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/System Volume Information/IndexerVolumeGuid
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/AVCHD/BDMV
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/AVCHD/BDMV/MOVIEOBJ.BDM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/AVCHD/BDMV/INDEX.BDM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/AVCHD/BDMV/PLAYLIST
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/AVCHD/BDMV/CLIPINF
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/AVCHD/BDMV/STREAM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/MEDIAPRO.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/STATUS.BIN
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/CLIP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/CLIP/C0001.MP4
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/CLIP/C0001M01.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/SUB
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0001T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0002T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0003T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0004T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0005T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0006T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0007T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0008T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0009T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0010T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0011T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0012T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0013T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0014T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0015T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0016T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0017T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0018T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0019T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0020T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0021T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0022T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/THMBNL/C0023T01.JPG
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/M4ROOT/GENERAL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/PRIVATE/._AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/Edit
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/General
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/General/Sony
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/General/Sony/Planning
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/Sub
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/Take
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/Take/EXPLORE_14.06.210004U01.SMI
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/Take/EXPLORE_14.06.210004U01M01.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/Thmbnl
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/UserData
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/CUEUP.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/DISCMETA.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/MEDIAPRO.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/Clip
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/Clip/EXPLORE_14.06.210002.MXF
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/Clip/EXPLORE_14.06.210002M01.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)/XDROOT/Clip/EXPLORE_14.06.210002R01.BIM
+
+2 folders have been copied to /Users/MacProServer/Documents/backupSoftware/test/beans (8887E)
+(2 total)
+- FS7A_1_2021-06-14_8887E_beans 5 GB
+- A7RA_1_2021-07-02_8887E_beans 35 MB
+
+Duplicating the footage to /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)
+
+/Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/MEDIAPRO.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/General
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/General/Sony
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/General/Sony/Planning
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/Clip
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/Clip/FS7A_1_8887E_EXPLORE_14.06.210002.MXF
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/Clip/EXPLORE_14.06.210002R01.BIM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/Clip/FS7A_1_8887E_EXPLORE_14.06.210002M01.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/DISCMETA.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/Edit
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/Sub
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/Take
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/Take/EXPLORE_14.06.210004U01M01.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/Take/EXPLORE_14.06.210004U01.SMI
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/Thmbnl
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/UserData
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/FS7A_1_2021-06-14_8887E_beans/CUEUP.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/._AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/AVCHD
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/AVCHD/BDMV
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/AVCHD/BDMV/PLAYLIST
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/AVCHD/BDMV/CLIPINF
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/AVCHD/BDMV/STREAM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/AVCHD/BDMV/MOVIEOBJ.BDM
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/AVCHD/BDMV/INDEX.BDM
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/MEDIAPRO.XML
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/GENERAL
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/CLIP
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/CLIP/A7RA_1_8887E_C0001M01.XML
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/CLIP/A7RA_1_8887E_C0001.MP4
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/SUB
+CREATED: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0010T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0002T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0012T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0020T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0008T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0016T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0004T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0022T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0006T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0018T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0014T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0011T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0003T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0001T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0013T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0017T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0009T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0005T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0021T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0019T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0007T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0015T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/THMBNL/C0023T01.JPG
+COPEID: /Users/MacProServer/Documents/backupSoftware/test/Media Server/beans (8887E)/A7RA_1_2021-07-02_8887E_beans/M4ROOT/STATUS.BIN
+
+All footage transferred successfully.
